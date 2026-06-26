@@ -1,6 +1,6 @@
 # DAY 3 HOMEWORK
 #
-# Name: Joel Nitta
+# Name: Kamio Kanane
 
 # 0. This demonstrates how to save your answers.
 # I've written the answer for you.
